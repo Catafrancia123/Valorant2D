@@ -5,7 +5,7 @@
 </div>
 
 ## Description
-A clone of [Geometry Dash](https://geometrydash.io/) but parkour. I made it just because i want to learn GML, and game making
+A clone of [Geometry Dash](https://geometrydash.io/) but parkour. I made it just because i want to learn GML, and game making. Version 0.2
 
 ## Download
 
