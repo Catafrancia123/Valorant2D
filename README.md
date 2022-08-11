@@ -4,7 +4,8 @@
 # ParkourBox
 </div>
 
-A clone of [Geometry Dash](https://geometrydash.io/) I made it just because i want to learn GML
+## Description
+A clone of [Geometry Dash](https://geometrydash.io/) but parkour. I made it just because i want to learn GML, and game making
 
 ## Download
 
