@@ -9,7 +9,7 @@ A clone of [Geometry Dash](https://geometrydash.io/) but parkour. I made it just
 
 ## Download
 
-Game still on development and idk how to make it to .exe file
+Game still on development and i gotta pay 4.99$ if i want to make it .exe
 
 ## How do i get sound working?
 
