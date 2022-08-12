@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./logo.png" width="100" height="100" alt="The Geomery dash Gray block as the logo">
+<img src="./logo/logo.png" width="100" height="100" alt="The Geomery dash Gray block as the logo">
 
 # ParkourBox
 </div>
