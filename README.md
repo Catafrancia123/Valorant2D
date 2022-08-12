@@ -17,7 +17,7 @@ No sound has been added to the game
 
 ## Development
 
-To Help you can simply download the file in the folder "Gamefiles", open in the latest version of GameMaker.
+To Help you can simply download the zip file, extract it to your GameMaker directory and run
 
 ## Reditribution
 
