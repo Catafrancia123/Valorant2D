@@ -1,11 +1,11 @@
 <div align="center">
-<img src="./logo/logo.png" width="100" height="100" alt="The Geomery dash Gray block as the logo">
+<img src="./logo/logo.png" width="100" height="100" alt="Goofy Ahh Pheonix lul">
 
-# ParkourBox
+# Valorant2D
 </div>
 
 ## Description
-A clone of [Geometry Dash](https://geometrydash.io/) but parkour. I made it just because i want to learn GML, and game making. Version 0.3.1
+A clone of [Valorant](https://playvalorant.com/) but in 2D. I made it just because i want to learn GML, and game making. Version 0.3.1
 
 ## Download
 
