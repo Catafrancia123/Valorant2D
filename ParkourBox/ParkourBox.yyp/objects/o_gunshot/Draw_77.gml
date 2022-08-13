@@ -1,1 +1,0 @@
-if (place_meeting(x,y,o_PlayerWall)) instance_destroy();
